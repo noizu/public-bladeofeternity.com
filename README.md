@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/noizu/public-bladeofeternity.com.png?label=ready&title=Ready)](https://waffle.io/noizu/public-bladeofeternity.com)
 bladeofeternity.com
 ==========================
 
